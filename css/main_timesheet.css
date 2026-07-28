@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    width:100%;
+    overflow-x: hidden;
+    background-image: url("MicrosoftTeams-image.png") !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    color:white !important;
+    background-color: #0A2647 !important;
+
+}
+.view{
+    padding-top:10px;
+}
+.information{
+    padding: 8px;
+    background-color: forestgreen;
+}
+nav
+{
+    background-color: #0A2647;
+    display:flex;
+}
+.button{
+    float: right;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.logo{
+    width:100px;
+    height:80px;
+}
+
+.row{
+    padding-top:10px;
+    padding-left: 10px;
+
+}
+#search{
+    padding-top: 25px;
+}
+.form-content{
+    display: flex;
+    flex-flow: row wrap;
+}
+.col-md-3{
+    padding-left: 10px;
+}
+.new-button{
+    align-content: center;
+    display: flex;
+    margin: 28px 0px;
+    padding-top: 10px;
+    float:right;
+    border: 10px;
+    border: none;
+}
+
+outtable{
+    background-color: white;
+    color:black !important;
+    border:1px solid;
+    border-spacing: 10px;
+    padding-left: 20px !important;
+
+}
+th, td{
+    padding: 10px;
+    border: 1px solid black;
+}
+.center{
+    margin-top: 30px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 10px;
+}
+.center th, .center td{
+    border: 1px solid black;
+}
+
+.timesheet_details{
+    display: flex;
+    background-color: lightgray;
+
+}
+.view_button{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main_page_button{
+    background-color: orange;
+    border: none;
+}
+#row-0
+{
+    color:black;
+    background-color: lightgray;
+}
+p{
+    color: black;
+}
+.display_details
+{
+    background-color: lightgray;
+    color: black;
+}
+
+.entry{
+    background-color: lightgray;
+    color:black;
+}
+.red{
+    color:red;
+}
+
+#table_output
+{
+    max-height: 350px;
+    overflow-y: scroll;
+}
+thead
+{
+    position: sticky;
+    top: 0;
+}
+.action_buttons
+{
+    padding-left: 150px !important;
+}
+#timesheet_input
+{
+    background-color: lightgray;
+}

@@ -1,0 +1,142 @@
+body
+{
+    background-color:#0A2647 !important;
+    max-width: 100%;
+    overflow-x: hidden;
+    background-image: url("m.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: initial;
+    color: white !important;
+}
+.achintyanavbar
+{
+    background-color: #4036;
+    color: black;
+}
+.achintyacollapse
+{
+    color:black;
+}
+.achintyamda
+{
+    margin-top: 15px;
+    height: 50px;
+    width: 150px;
+}
+
+.achintyacompany
+{
+    color: white;
+    padding-top: 20px;
+    padding-left: 350px;
+}
+.achintyaheading
+{
+    position: relative;
+    left: 22%;
+}
+.achintyatimesheet
+{
+    position: relative;
+    left: 30%;
+    top: 100px;
+}
+.achintyainvoice
+{
+    position: relative;
+    left: 30%;
+    top: 200px;
+}
+.achintyab1
+{
+    position: relative;
+    left: 10%;
+}
+fieldset
+{
+    border: 2px groove black !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 1.5em 1.5em 0 !important;
+    color: black;
+    background-color: lightgoldenrodyellow;
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: 10px;
+}
+legend
+{
+    font-size: 1.2em !important;
+    font-weight: bold !important;
+    text-align: left !important;
+}
+.achintyab2
+{
+    padding-top: 7px;
+}
+.achintyacomment
+{
+    position: relative;
+    left: 22%;
+    top: 90px;
+}
+.achintyaselect
+{
+    position: relative;
+    left: 40%;
+    top: 100px;
+}
+.achintyab3
+{
+    position: relative;
+    left: 40%;
+    top: 200px;
+}
+.achintyared
+{
+    color: red;
+}
+.achintyafs
+{
+    border: 2px groove black !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 1.5em 1.5em 0 !important;
+    color: black;
+    background-color: lightgoldenrodyellow;
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: 38px;
+}
+.achintyacenter
+{
+    position: relative;
+    top: 30px;
+    left: 30%;
+}
+.achintyaboth
+{
+    position: relative;
+    top: 30px;
+}
+.achintyal
+{
+    left: 15%;
+}
+.achintyaifs
+{
+    border: 2px groove black !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 1.5em 1.5em 0 !important;
+    color: black;
+    background-color: lightgoldenrodyellow;
+    height: 300px;
+    width: 500px;
+    position: relative;
+    top: 10px;
+}
+.achintyacusname
+{
+    width: 200px;
+}

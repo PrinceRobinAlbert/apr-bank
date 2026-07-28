@@ -1,0 +1,139 @@
+.text {
+    color: white;
+}
+
+.screen {
+    position: relative;
+    left: 2%;
+}
+
+.down {
+    position: relative;
+    left: 47%;
+    padding-top: 10px;
+}
+
+.body_flow {
+    overflow-x: hidden;
+}
+
+.down1 {
+    margin-right: 4px;
+    width: 150px;
+    position: relative;
+    left: 43%;
+    margin-top:10px;
+}
+
+.fit {
+    position: relative;
+    right: 4%;
+    color: black !important;
+    background: darkorange !important;
+}
+
+.fit:hover {
+    background: dodgerblue !important;
+}
+
+.size {
+    width: 1280px;
+    position: relative;
+    left: 5%;
+    margin-top: 10px;
+}
+
+fieldset {
+    border-radius: 10px;
+}
+
+thead {
+    background: white;
+    position: sticky;;
+    top: 0;
+}
+
+.below {
+    margin-top: 30px;
+    margin-left: 350px;
+}
+
+.grad {
+    border-width: thick;
+    border-color: white !important;
+}
+
+.alnright {
+    text-align: center;
+    margin-left: 1em;
+}
+
+.fit1 {
+    color: black;
+    position: relative;
+    left: 88.5%;
+    margin-bottom: 2px;
+    margin-right: 4px;
+}
+
+.button_home_time:hover {
+    background-color: dodgerblue !important;
+}
+
+.space {
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.breadth {
+    width: 20px;
+    position: relative;
+    left: 2%;
+}
+
+.agg_drp {
+    position: relative;
+    left: 8%;
+}
+.value_space{
+    position:relative;
+    left:22%;
+}
+
+.agg_drp1 {
+    position: relative;
+    left: 22%;
+}
+
+.breadth1 {
+    position: relative;
+    left: 12%;
+}
+
+.breadth2 {
+    position: relative;
+    left: 10%;
+}
+
+.time {
+    position: relative;
+    left: 13.5%;
+}
+
+.len {
+    position: relative;
+    left: 15%;
+}
+
+.len1 {
+    position: relative;
+    left: 13.2%;
+}
+
+
+
+.agg_drp2 {
+    position: relative;
+    left: 15%;
+}
+

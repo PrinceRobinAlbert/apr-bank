@@ -1,0 +1,114 @@
+.add
+{
+    position: relative!important;
+    left: 70% !important;
+    background-color: orange !important;
+}
+
+.add:hover
+{
+    background-color: deepskyblue !important;
+}
+
+.btn {
+    background-color: lightcoral!important;
+    border: none!important;
+    color: black!important;
+    font-size: 16px!important;
+    cursor: pointer!important;
+}
+
+body
+{
+    background-color: #0a2647 !important;
+    background-image:  url("background_images/acebg.png")!important;
+    background-repeat: no-repeat!important;
+    background-size: 100%!important;
+    zoom: 125%;
+}
+
+.table1
+{
+    position: relative!important;
+    left: 70% !important;
+    background-color: orange !important;
+}
+
+.table1:hover
+{
+    background-color: deepskyblue !important;
+}
+
+#invoice
+{
+    width: 25% !important;
+    margin:auto!important;
+    padding: 50px!important;
+    color: white!important;
+}
+
+#invoiceLineItem
+{
+    width: 25% !important;
+    margin: auto!important;
+    padding: 50px!important;
+    color: white!important;
+}
+.maintable
+{
+    margin: auto!important;
+    padding: 50px!important;
+    width: 75% !important;
+    text-align: center!important;
+}
+.maintabletr
+{
+    background-color: white!important;
+}
+
+.maintableth{
+    background-color: #4386d9!important;
+}
+
+.class
+{
+    position: relative!important;
+    align-items: center!important;
+}
+
+.button
+{
+    background-color: orange !important;
+}
+.button:hover
+{
+    background-color: dodgerblue !important;
+}
+.logoimage{
+    margin-top: 5%;
+}
+.row{
+
+    padding-bottom: 15px;
+}
+.bgcolor{
+    background-color: #000036;
+}
+.title{
+    color: white;
+    text-align: center;
+    padding-right: 160px;
+    padding-top: 25px
+
+}
+.home_button{
+
+    position:relative !important;
+    left:47% !important;
+    background-color:darkorange !important;
+    margin-top:15%;
+    width: 75px;
+    height: 40px;
+
+
+}

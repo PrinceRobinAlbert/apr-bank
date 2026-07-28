@@ -1,0 +1,105 @@
+.logout{
+    margin-top: 40px;
+}
+.title{
+    color: white;
+    text-align: center;
+    padding-right: 160px;
+    padding-top: 25px
+
+}
+.logoimage{
+    margin-top: 5%;
+}
+.bgcolor{
+    background-color: #000036;
+
+}
+
+.row{
+
+    padding-bottom: 15px;
+}
+.body{
+    background-color:#0A2647 ;
+    background-image: url("background_images/acebg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
+}
+label{
+    width: 240px;
+    display: inline-block;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.middle{
+    margin :50px 450px;
+}
+.user_input{
+    padding: 10px 10px;
+}
+.card{
+    padding: 10px 20px;
+}
+.button{
+    position:relative ;
+    left:47%;
+    background-color:darkorange!important;
+}
+
+.err{
+    color: red;
+}
+.center{
+    margin :50px 110px;
+
+}
+.para{
+    text-align: center;
+    font-weight: bold;
+}
+.passwordbutton{
+    position:relative ;
+    top: 10px;
+    left: 37%;
+
+
+}
+.forgot-password{
+    POSITION: RELATIVE;
+    LEFT: 70%;
+    padding-top: 20px;
+}
+.signin{
+    POSITION: RELATIVE;
+    RIGHT : 25%;
+
+}
+.note{
+    font-size: small;
+    text-align: center;
+}
+.bgcolor{
+    background-color: #000036;
+}
+
+#b{
+    margin-right: 70px;!important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#form {
+    margin: 150px auto;
+    width: 40%;
+
+}
+#image{
+
+    background-color: #f8f9fa;
+
+}
+.button:hover{
+    background-color: dodgerblue!important;
+}

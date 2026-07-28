@@ -1,0 +1,200 @@
+body {
+    background-color: #0A2647;
+    background-image: url("mdabgi.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+strong {
+    color: darkgreen;
+}
+
+.header {
+    text-align: center;
+}
+
+.timesheet_upload {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+h7 {
+    color: orangered;
+}
+
+span {
+    color: white;
+}
+
+#table_upload{
+    border-color: black;
+    background-color: #0A2647;
+    opacity:0.8;
+    color: white;
+
+}
+#table_upload:hover{
+    transform: scale(1.01);
+    cursor:pointer;
+}
+.body {
+    text-align: center;
+    margin-top: 160px;
+}
+
+.name {
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+exception {
+    color: red;
+}
+
+label {
+    color: white;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+    opacity: 0.9;
+    padding-bottom: 10px;
+}
+
+h1 {
+    color: white;
+}
+
+#table_upload td, th {
+    color: white;
+
+}
+
+#table_upload th {
+    color: white;
+    background-color: black;
+}
+
+.startdate, .enddate {
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+/*input[type=file]::file-selector-button {
+    border-radius: 5px;
+    color: white;
+    background-color: orange;
+    cursor: pointer;
+    box-shadow: 7px 7px 10px black;
+}*/
+input[type=file]::file-selector-button {
+    margin-right: 20px;
+    border: none;
+    background: darkorange;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    transition: background .2s ease-in-out;
+}
+
+input[type=file]::file-selector-button:hover {
+    background-color: dodgerblue;
+    color: black;
+
+}
+
+.upload2 {
+    border-radius: 5px;
+    color: white;
+    background-color: orange;
+    cursor: pointer;
+    box-shadow: 7px 7px 10px black;
+
+
+}
+
+.upload2:hover {
+    background-color: lightblue;
+    color: black;
+}
+
+.upload {
+    border-radius: 5px;
+    color: white;
+    background-color: orange;
+    cursor: pointer;
+    box-shadow: 7px 7px 10px black;
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
+
+.upload:hover {
+    background-color: lightblue;
+    color: black;
+}
+
+.tsupload {
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+h9 {
+    color: white;
+}
+
+.dis {
+    display: none;
+}
+.border{
+    border: #d1d2d4;
+    margin-top: 90px;
+    margin-right: 20px;
+    margin-left: 20px;
+    box-shadow: 7px 7px 10px black;
+
+}
+
+
+h12
+{
+    font-size:30px;
+    color:black;
+    background-color:ghostwhite;
+}
+.detailsback{
+    background-color: white;
+    opacity: 0.7;
+
+}
+.tableback{
+    background-color: #0A2647;
+    opacity: 0.8;
+}
+.logoimage{
+    margin-top: 5%;
+}
+.row{
+
+    padding-bottom: 15px;
+}
+.bgcolor{
+    background-color: #000036;
+}
+.title{
+    color: white;
+    text-align: center;
+    padding-right: 160px;
+    padding-top: 25px
+
+}
+.button{
+    position:relative ;
+    left:47%;
+    background-color:darkorange !important;
+    margin-top: 20px;
+}

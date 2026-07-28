@@ -1,0 +1,123 @@
+h2{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+
+}
+body{
+    background-color:#0A2647 !important;
+    background-image: url("background_images/acebg.png") ;
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
+}
+
+
+label{
+    width: 240px;
+    display: inline-block;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.middle{
+    margin :50px 450px;
+
+}
+.user_input{
+    padding: 10px 10px;
+}
+.card{
+    padding: 10px 20px;
+}
+.button{
+    position:relative ;
+    left:47%;
+
+
+}
+.head{
+    background-image: linear-gradient(to right,#009FFD,#2A2A72)
+}
+.err{
+    color: red;
+}
+.center{
+    margin :50px 110px;
+
+}
+.para{
+    text-align: center;
+    font-weight: bold;
+}
+.passwordbutton{
+    position:relative ;
+    top: 10px;
+   left: 37%;
+
+
+}
+.note{
+    font-size: x-small;
+    text-align: center;
+}
+.bgcolor{
+    background-color: white !important;
+}
+
+.menu{
+    text-align: center;
+    background-color: orange;
+
+}
+.row{
+
+    padding-bottom: 15px;
+}
+.title{
+    color: white;
+    text-align: center;
+    padding-right: 160px;
+    padding-top: 25px
+
+}
+.card1{
+    position: relative;
+    margin-left: 60px;
+    margin-top: 30px !important;
+}
+.cardhead{
+    color:white;
+    text-align: center;
+    background-color: #000036;
+}
+.textcard{
+    padding-left: 60px;
+}
+.textcard2{
+    padding-left: 40px;
+}
+.imgcard{
+    padding-left:35px ;
+
+}
+.logout{
+    margin-top: 30px;
+    margin-right: 80px !important;
+}
+.logoimage{
+    margin-top: 5%;
+
+}
+
+.card2{
+    width:89% !important;
+    position: relative;
+    margin-left: 60px;
+    margin-top: 30px !important;
+}
+.reset{
+    margin-left: 150px;
+    margin-top: 30px;
+}

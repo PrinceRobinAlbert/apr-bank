@@ -1,0 +1,38 @@
+
+
+
+#table1{
+    background-color: #0a2647 !important; ;
+    color: white;
+    background-image: url("background_images/acebg.png");
+
+}
+#table2{
+    background-color: #0a2647 !important;
+    color: white;
+
+}
+#table3{
+    background-color: #0a2647 !important ;
+    color: white;
+    background-image: url("background_images/acebg.png") !important;
+
+}
+th , td{
+    border:1px solid black;
+}
+/*body {
+    background-image: url("mda.png");
+    background-color: #0a2647 !important;
+    background-size: 100%;
+    color: white;
+    max-width: 100%;
+    overflow-x: hidden;
+}*/
+#invoice_date_error{
+    color: red !important;
+    background-color: white !important;
+    width:20%;
+   /* align-items:  !important;*/
+   /* margin-right: 100px !important;*/
+}
